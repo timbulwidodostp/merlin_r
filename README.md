@@ -1,6 +1,8 @@
 # merlin_r
 Mixed Effects Regression for Linear, Non-Linear and User-Defined Models Use merlin With (In) R Software
 
+https://www.youtube.com/watch?v=sVvyD6GvYkk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
